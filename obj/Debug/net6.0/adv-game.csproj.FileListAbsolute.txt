@@ -1,0 +1,14 @@
+C:\Users\Nina\Desktop\test\adv-game\obj\Debug\net6.0\adv-game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nina\Desktop\test\adv-game\obj\Debug\net6.0\adv-game.AssemblyInfoInputs.cache
+C:\Users\Nina\Desktop\test\adv-game\obj\Debug\net6.0\adv-game.AssemblyInfo.cs
+C:\Users\Nina\Desktop\test\adv-game\obj\Debug\net6.0\adv-game.csproj.CoreCompileInputs.cache
+C:\Users\Nina\Desktop\test\adv-game\bin\Debug\net6.0\adv-game.exe
+C:\Users\Nina\Desktop\test\adv-game\bin\Debug\net6.0\adv-game.deps.json
+C:\Users\Nina\Desktop\test\adv-game\bin\Debug\net6.0\adv-game.runtimeconfig.json
+C:\Users\Nina\Desktop\test\adv-game\bin\Debug\net6.0\adv-game.dll
+C:\Users\Nina\Desktop\test\adv-game\bin\Debug\net6.0\adv-game.pdb
+C:\Users\Nina\Desktop\test\adv-game\obj\Debug\net6.0\adv-game.dll
+C:\Users\Nina\Desktop\test\adv-game\obj\Debug\net6.0\refint\adv-game.dll
+C:\Users\Nina\Desktop\test\adv-game\obj\Debug\net6.0\adv-game.pdb
+C:\Users\Nina\Desktop\test\adv-game\obj\Debug\net6.0\adv-game.genruntimeconfig.cache
+C:\Users\Nina\Desktop\test\adv-game\obj\Debug\net6.0\ref\adv-game.dll
